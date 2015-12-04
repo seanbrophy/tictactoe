@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+button
+{
+	width:150px;
+	height:150px;
+	font-size:30px;
+	text-align:center;
+	margin: 5px 5px 5px 5px;
+}
+
